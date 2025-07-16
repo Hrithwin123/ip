@@ -2,6 +2,8 @@ import express from "express"
 
 const app = express()
 
+app.set("trust proxy", true)
+
 app.get("/", (req, res) => {
     console.log(`Users Ip is : ${req.ip}`)
 })
