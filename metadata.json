@@ -1,0 +1,11 @@
+{
+  "name" : "My Token",
+  "symbol" : "MTK",
+  "description" : "this is my token lol",
+  "image" : "https://en.wikipedia.org/wiki/File:Sunflowers_helianthus_annuus.jpg",
+  "attributes" : [
+    {"trait_type" : "tier", "value" : "gold"},
+    {"trait_type" : "why ?", "value" : "memes"}
+  ]
+
+}
